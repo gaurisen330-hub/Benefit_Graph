@@ -137,5 +137,63 @@ New / Updated Scheme
  Update Eligibility Rules
         ↓
    Benefit Graph
+
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Backend
+- Python
+- Flask
+
+### Database
+- SQLite
+
+### AI / Intelligent Processing
+- Python
+- NLP
+- RAG
+- LLM
+
+### Benefit Graph
+- NetworkX
+- JavaScript-based graph visualization
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
         ↓
-Updated Citizen Pathways
+Updated C
+
+---
+
+## 🔮 Future Scope
+
+BenefitGraph can be further improved and expanded with the following features:
+
+- Integration with verified government scheme data and official APIs
+- Automatic updating of newly launched or modified schemes
+- Support for more Indian regional languages
+- Voice-based citizen assistance
+- Mobile application
+- Real-time application status and notifications
+- Digital document verification
+- Offline or low-connectivity support
+- Personalized notifications for newly available benefits
+- Advanced benefit and dependency graph analysis
+- Integration with more government digital services
+
+The long-term goal is to make BenefitGraph a continuously updated platform that helps citizens not only discover government benefits, but also understand and complete the steps required to access them.
+
+
+
+
+itizen Pathways
